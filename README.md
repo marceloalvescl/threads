@@ -1,4 +1,4 @@
-# projeto-final-sistema-operacional
+# projeto-final-sistema-operacional Threads C
 
 Este repositório contém o código fonte para resolução do problema proposto como projeto final da disciplina.
 
